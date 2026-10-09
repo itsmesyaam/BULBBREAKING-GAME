@@ -2,7 +2,7 @@
 
 > A single-page interactive physics simulation and motion piece. Delivered in one self-contained, dependency-free `index.html` file using Canvas 2D physics and procedural Web Audio synthesis. Responsive across desktop and mobile.
 
-**Live Site**: [https://itsmesyaam.github.io/buld-breaking/](https://itsmesyaam.github.io/buld-breaking/)
+
 
 ---
 
